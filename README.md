@@ -250,11 +250,11 @@ Store state files on remote location
 <br>
 
 
-Now Execute Terraform Commands
+#### Now Execute Terraform Commands
 
 <br>
 
-1.	terraform init 
+##### 1.	terraform init 
 
 <br>
 
@@ -276,7 +276,7 @@ This initializes Terraform in a directory, downloading any required providers. I
 
 
 
-2.	terraform plan 
+##### 2.	terraform plan 
 
 <br>
 
@@ -290,7 +290,7 @@ This generates an execution plan to show what Terraform will do when you call ap
 <br>
 
 
-3.	terraform apply 
+##### 3.	terraform apply 
 
 <br>
 
@@ -304,7 +304,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-#### 1	VPC
+#### 1.	VPC
 
  <br>
 
@@ -313,7 +313,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-#### 2	Routing Table
+#### 2.	Routing Table
 
 <br>
 
@@ -322,7 +322,7 @@ This executes the actions proposed in the plan and actually provisions or change
 <br>
 
 
-#### 3	NAT gateways
+#### 3.	NAT gateways
 
  <br>
 
@@ -330,7 +330,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-#### 4	Security Groups
+#### 4.	Security Groups
 
 <br>
 
@@ -338,7 +338,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-#### 5	Launch Templates
+#### 5.	Launch Templates
 
 <br> 
 
@@ -348,7 +348,7 @@ This executes the actions proposed in the plan and actually provisions or change
 <br>
 
 
-#### 6	Auto Scaling Groups
+#### 6.	Auto Scaling Groups
 
  <br>
 
@@ -356,7 +356,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-7	EC2 Servers
+#### 7.	EC2 Servers
 
 <br>
 
@@ -365,7 +365,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-#### 8	Application Load Balancer
+#### 8.	Application Load Balancer
 
 <br>
 
@@ -373,7 +373,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-#### 9	Target Groups
+#### 9.	Target Groups
 
 <br>
 
@@ -383,7 +383,7 @@ This executes the actions proposed in the plan and actually provisions or change
 <br>
 
 
-#### 10	RDS Instance
+#### 10.	RDS Instance
 
 <br>
 
@@ -392,7 +392,7 @@ This executes the actions proposed in the plan and actually provisions or change
 <br>
  
 
-#### 11	Route 53 Record
+#### 11.	Route 53 Record
 
 <br>
 
@@ -402,7 +402,7 @@ This executes the actions proposed in the plan and actually provisions or change
 
 <br>
 
-#### 12	CloudFront Distribution
+#### 12.	CloudFront Distribution
 
 <br>
 
