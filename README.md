@@ -6,8 +6,11 @@
 <br>
 <br>
 <br>
+ 
+ ### Architecture :
 
-
+ <br>
+ 
   ![image](https://github.com/virajmate7776/Terraform-2-Tier-AWS-Architecture/assets/117629972/36f2079f-3b1d-4e80-97d2-35cd79a44066)
 
 
